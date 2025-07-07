@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamdyadav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java Full Stack
+- 🌱 I’m a frontend developer
 
 
 <!---
